@@ -15,7 +15,7 @@
 
 ### 🎨 Front-End  
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*b2M6AT-DzDX-4L-SKPpmgA.png)" width="40" height="40" alt="React" /></a>
   <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="Next.js" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
@@ -33,7 +33,7 @@
 
 ### 🎨 Design & 3D Tools  
 <p align="left">
-  <a href="[https://spline.design/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gitsentinel%2Frevolutionizing-design-unveiling-the-wonders-of-spline-4fdf3feb51c0&psig=AOvVaw25RFg0Cbu-A0AV_JOgPXPf&ust=1743617861749000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCzqe64t4wDFQAAAAAdAAAAABAE)" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spline-colored.svg" width="40" height="40" alt="Spline" /></a>
+   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" /></a>
