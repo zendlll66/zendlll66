@@ -33,7 +33,7 @@
 
 ### 🎨 Design & 3D Tools  
 <p align="left">
-  <a href="https://spline.design/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spline-colored.svg" width="40" height="40" alt="Spline" /></a>
+  <a href="[https://spline.design/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gitsentinel%2Frevolutionizing-design-unveiling-the-wonders-of-spline-4fdf3feb51c0&psig=AOvVaw25RFg0Cbu-A0AV_JOgPXPf&ust=1743617861749000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCzqe64t4wDFQAAAAAdAAAAABAE)" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spline-colored.svg" width="40" height="40" alt="Spline" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="40" height="40" alt="Premiere Pro" /></a>
@@ -42,17 +42,7 @@
 ---
 
 ## 🌎 Connect with me  
-<p align="left">
-  <a href="https://github.com/zendlll66" target="_blank">
-    <img src="https://img.shields.io/github/followers/zendlll66?style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-</p>
+
 
 ---
 
