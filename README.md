@@ -15,6 +15,11 @@
 
 ## 🚀 Projects
 
+### 📊 Research Repository (Faculty of Engineering, NU)  
+A web application for collecting and displaying research papers, eBooks, and researcher profiles of the Faculty of Engineering, Naresuan University.  
+**Role:** Front-End Development & UX/UI Design  
+🔗 [Live Site](https://research-nu-nine.vercel.app/)
+
 ### 🧮 Age Calculator  
 A clean and responsive web application that calculates age based on user input using date logic.  
 🔗 [Live Demo](https://age-calculator-kappa-opal.vercel.app/)
