@@ -1,4 +1,6 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+# Hi there!  
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+
 ### 👋 My name is Kittithat Chankhom  
 
 💻 **Front-End Developer** | 🚀 **Tech Enthusiast**  
@@ -8,6 +10,22 @@
 🌍 **I'm based in:** Thailand  
 🖥️ **Portfolio:** [ZEnd](http://zend-project.vercel.app/)  
 ✉️ **Contact me:** [om99305@gmail.com](mailto:om99305@gmail.com)  
+
+---
+
+## 🚀 Projects
+
+### 🧮 Age Calculator  
+A clean and responsive web application that calculates age based on user input using date logic.  
+🔗 [Live Demo](https://age-calculator-kappa-opal.vercel.app/)
+
+### 🧩 Bento Grid Layout  
+An interactive grid layout project inspired by bento design style — great for portfolios or dashboards.  
+🔗 [Live Demo](https://bento-grid-kappa-seven.vercel.app/)
+
+### 🧰 Extensions Manager  
+A simple and elegant UI to showcase or manage browser extensions in a styled grid interface.  
+🔗 [Live Demo](https://extensions-manager-sigma.vercel.app/)
 
 ---
 
