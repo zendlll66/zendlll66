@@ -8,7 +8,7 @@
 ---
 
 🌍 **I'm based in:** Thailand  
-🖥️ **Portfolio:** [ZEnd](http://zend-project.vercel.app/)  
+🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/) 
 ✉️ **Contact me:** [om99305@gmail.com](mailto:om99305@gmail.com)  
 
 ---
