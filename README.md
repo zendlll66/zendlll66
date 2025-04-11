@@ -20,6 +20,11 @@ A web application for collecting and displaying research papers, eBooks, and res
 **Role:** Front-End Development & UX/UI Design  
 🔗 [Live Site](https://research-nu-nine.vercel.app/)
 
+### 🛒 E-commerce Product Page  
+A fully responsive e-commerce product detail page inspired by product-focused landing pages.  
+**Role:** Front-End Development  
+🔗 [Live Demo](https://ecommerce-product-zeta.vercel.app/)
+
 ### 🧮 Age Calculator  
 A clean and responsive web application that calculates age based on user input using date logic.  
 🔗 [Live Demo](https://age-calculator-kappa-opal.vercel.app/)
