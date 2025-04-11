@@ -8,8 +8,8 @@
 ---
 
 🌍 **I'm based in:** Thailand  
-🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)
-✉️ **Contact me:** [kittithat.dev@gmail.com](kittithat.dev@gmail.com)  
+🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)  
+✉️ **Contact me:** [kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
 
 ---
 
