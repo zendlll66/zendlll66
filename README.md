@@ -9,7 +9,7 @@
 
 🌍 **I'm based in:** Thailand  
 🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)
-✉️ **Contact me:** [om99305@gmail.com](mailto:om99305@gmail.com)  
+✉️ **Contact me:** [kittithat.dev@gmail.com](kittithat.dev@gmail.com)  
 
 ---
 
@@ -45,6 +45,7 @@ A simple and elegant UI to showcase or manage browser extensions in a styled gri
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+
 </p>
 
 ### 🔹 Back-End  
