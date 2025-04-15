@@ -20,6 +20,11 @@ A web application for collecting and displaying research papers, eBooks, and res
 **Role:** Front-End Development & UX/UI Design  
 🔗 [Live Site](https://research-nu-nine.vercel.app/)
 
+### 🎯 ZEnd SaaS Landing Page  
+A sleek, responsive landing page for a fictional productivity SaaS product. Built with modern design practices and polished UI animations to showcase product features, pricing, and testimonials.  
+**Role:** Front-End Development & UI Design  
+🔗 [Live Demo](https://zend-saas-landing-page.vercel.app/)
+
 ### 🛒 E-commerce Product Page  
 A fully responsive e-commerce product detail page inspired by product-focused landing pages.  
 **Role:** Front-End Development  
@@ -50,7 +55,6 @@ A simple and elegant UI to showcase or manage browser extensions in a styled gri
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-
 </p>
 
 ### 🔹 Back-End  
