@@ -7,7 +7,7 @@
 
 ---
 
-I am a website developer with hands-on experience in frontend design and UX/UI development, specializing in React and Next.js. Additionally, I am currently evolving as a Full-stack Developer with expertise in Node.js, Next.js routing, and backend development. I'm also passionate about web application testing with Cypress, which enhances the efficiency, accuracy, and reliability of systems.
+I am a website developer with hands-on experience in frontend design and UX/UI development, specializing in React and Next.js. Additionally, I am currently evolving as a Full-stack Developer with expertise in Node.js, Next.js routing, backend development, and ShadCN. I'm also passionate about web application testing with Cypress, which enhances the efficiency, accuracy, and reliability of systems.
 
 ---
 
@@ -61,7 +61,10 @@ A sleek UI to manage or showcase browser extensions in a grid-style layout.
 ![Cypress](https://img.shields.io/badge/Cypress-%2331C8FF.svg?style=for-the-badge&logo=cypress&logoColor=white)  
 
 ### 🗄️ Back-End & Database  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TiDB](https://img.shields.io/badge/TiDB-%23E9546B.svg?style=for-the-badge&logo=pingcap&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TiDB](https://img.shields.io/badge/TiDB-%23E9546B.svg?style=for-the-badge&logo=pingcap&logoColor=white)  
+
+### 🧩 ShadCN  
+![ShadCN](https://img.shields.io/badge/ShadCN-222222.svg?style=for-the-badge&logo=shadcn&logoColor=white)  
 
 ### 🛠️ Tools & IDEs  
 ![DBeaver](https://img.shields.io/badge/DBeaver-%230070A8.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
@@ -71,13 +74,6 @@ A sleek UI to manage or showcase browser extensions in a grid-style layout.
 
 ### ⚙️ DevOps & Version Control  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🔗 Socials  
-
-- [LinkedIn](https://www.linkedin.com/in/kittithatchankhom/)  
-- [Twitter](https://twitter.com/zendlll66)  
 
 ---
 
