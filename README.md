@@ -62,7 +62,7 @@ A simple and elegant UI to showcase or manage browser extensions in a styled gri
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://tidb.io/" target="_blank"><img src="https://raw.githubusercontent.com/pingcap/website-docs/main/media/logo.svg" width="36" height="36" alt="TiDB" /></a>
+  <a href="https://www.pingcap.com/" target="_blank"><img src="https://raw.githubusercontent.com/pingcap/website-docs/main/media/logo.svg" width="36" height="36" alt="TiDB" /></a>
   <a href="https://dbeaver.io/" target="_blank"><img src="https://dbeaver.io/wp-content/uploads/2021/09/dbeaver-icon.png" width="36" height="36" alt="DBeaver" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
