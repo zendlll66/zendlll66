@@ -47,54 +47,32 @@ A simple and elegant UI to showcase or manage browser extensions in a styled gri
 ## 🚀 Skills  
 
 ### 🔹 Front-End  
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-</p>
+<span style="color:#61DAFB;">React</span> |  
+<span style="color:#000000;">Next.js</span> |  
+<span style="color:#F7DF1E;">JavaScript</span> |  
+<span style="color:#E34F26;">HTML</span> |  
+<span style="color:#1572B6;">CSS</span> |  
+<span style="color:#38BDF8;">Tailwind CSS</span> |  
+<span style="color:#3178C6;">TypeScript</span> |  
+<span style="color:#646CFF;">Vite</span>
 
 ### 🔹 Back-End  
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.pingcap.com/" target="_blank"><img src="https://raw.githubusercontent.com/pingcap/website-docs/main/media/logo.svg" width="36" height="36" alt="TiDB" /></a>
-  <a href="https://dbeaver.io/" target="_blank"><img src="https://dbeaver.io/wp-content/uploads/2021/09/dbeaver-icon.png" width="36" height="36" alt="DBeaver" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+<span style="color:#339933;">Node.js</span> |  
+<span style="color:#4479A1;">MySQL</span> |  
+<span style="color:#FF5F00;">TiDB</span> |  
+<span style="color:#372D3B;">DBeaver</span> |  
+<span style="color:#F1502F;">Git</span>
 
 ### 🔹 Design Tools  
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
-  </a>
-  <a href="https://spline.design/" target="_blank">
-    <img src="https://mms.businesswire.com/media/20240813508808/en/2214134/5/spline_logo_black.jpg?download=1" width="36" height="36" alt="Spline" />
-  </a>
-</p>
+<span style="color:#F24E1E;">Figma</span> |  
+<span style="color:#31A8FF;">Photoshop</span> |  
+<span style="color:#EA77FF;">Premiere Pro</span> |  
+<span style="color:#000000;">Spline</span>
 
 ---
 
 ## 🔗 Socials  
-<p align="left">
-  <a href="https://github.com/zendlll66" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
+- GitHub: [zendlll66](https://github.com/zendlll66)
 
 ---
 
