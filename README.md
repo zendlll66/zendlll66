@@ -5,7 +5,8 @@
 
 💻 **Front-End Developer** | 🚀 **UX/UI Design**  
 
-    I am a website developer with experience in frontend design and UX/UI development, using React and Next.js. Additionally, I am currently developing as a Full-stack Developer with expertise in Node.js, Next.js routing, and backend development. I am also passionate about web application testing using Cypress, which helps ensure the efficiency, accuracy, and correctness of the systems.
+---
+I am a website developer with experience in frontend design and UX/UI development, using React and Next.js. Additionally, I am currently developing as a Full-stack Developer with expertise in Node.js, Next.js routing, and backend development. I am also passionate about web application testing using Cypress, which helps ensure the efficiency, accuracy, and correctness of the systems.
 ---
 
 🌍 **I'm based in:** Thailand  
