@@ -3,7 +3,7 @@
 
 ### 👋 My name is Kittithat Chankhom  
 
-💻 **Front-End Developer** | 🚀 **Tech Enthusiast**  
+💻 **Front-End Developer** | 🚀 **UX/UI Design**  
 
 ---
 
