@@ -13,7 +13,8 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 
 🌍 **I'm based in:** Thailand  
 🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)  
-✉️ **Contact me:** [kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
+✉️ **Contact me:** [
+kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
 
 ---
 
@@ -46,6 +47,11 @@ An interactive grid layout inspired by the bento design style, ideal for portfol
 ### 🧰 Extensions Manager  
 A sleek UI to manage or showcase browser extensions in a grid-style layout.  
 🔗 [Live Demo](https://extensions-manager-sigma.vercel.app/)
+
+### 🧰 Todo-list  
+A sleek UI to manage and organize your tasks in a minimal, grid-style layout.  
+Perfect for personal task tracking or showcasing task-related features.  
+🔗 [Live Demo](https://zend-todo-list.vercel.app/)
 
 ---
 
