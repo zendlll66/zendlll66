@@ -13,49 +13,48 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 
 🌍 **I'm based in:** Thailand  
 🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)  
-✉️ **Contact me:** [
-kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
+✉️ **Contact me:** [kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
 
 ---
 
+### 📊 Research Repository (Faculty of Engineering, NU)  
+A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.  
+**Role:** Front-End Development & UX/UI Design  
+🔗 [Live Site](https://research-nu-nine.vercel.app/)
+
 ## 🚀 Projects
 
-📊 Research Repository (Faculty of Engineering, NU)
-A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.
-Role: Front-End Development & UX/UI Design
-🔗 Live Site
+### 🚌 NU Bus Tracking System  
+A live tracking system for public buses around Naresuan University, designed to improve real-time vehicle tracking and user accessibility.  
+**Role:** Front-End Development & UX/UI Design (Front + API)  
+🔗 [Live Site](https://nu-bus-tracking.vercel.app/)
 
-🚌 NU Bus Tracking System
-A live tracking system for public buses around Naresuan University, designed to improve real-time vehicle tracking and user accessibility.
-Role: Full-stack Developer (Front + API + DB)
-🔗 Live Site
+### 🎯 ZEnd SaaS Landing Page  
+A responsive and modern landing page for a fictional productivity SaaS product, featuring polished UI animations and showcasing product features, pricing, and testimonials.  
+**Role:** Front-End Development & UI Design  
+🔗 [Live Demo](https://zend-saas-landing-page.vercel.app/)
 
-🎯 ZEnd SaaS Landing Page
-A responsive and modern landing page for a fictional productivity SaaS product, featuring polished UI animations and showcasing product features, pricing, and testimonials.
-Role: Front-End Development & UI Design
-🔗 Live Demo
+### 🛒 E-commerce Product Page  
+A fully responsive e-commerce product page inspired by product-focused landing pages.  
+**Role:** Front-End Development  
+🔗 [Live Demo](https://ecommerce-product-zeta.vercel.app/)
 
-🛒 E-commerce Product Page
-A fully responsive e-commerce product page inspired by product-focused landing pages.
-Role: Front-End Development
-🔗 Live Demo
+### 🧮 Age Calculator  
+A simple web app that calculates the user’s age based on input using date logic.  
+🔗 [Live Demo](https://age-calculator-kappa-opal.vercel.app/)
 
-🧮 Age Calculator
-A simple web app that calculates the user’s age based on input using date logic.
-🔗 Live Demo
+### 🧩 Bento Grid Layout  
+An interactive grid layout inspired by the bento design style, ideal for portfolios or dashboards.  
+🔗 [Live Demo](https://bento-grid-kappa-seven.vercel.app/)
 
-🧩 Bento Grid Layout
-An interactive grid layout inspired by the bento design style, ideal for portfolios or dashboards.
-🔗 Live Demo
+### 🧰 Extensions Manager  
+A sleek UI to manage or showcase browser extensions in a grid-style layout.  
+🔗 [Live Demo](https://extensions-manager-sigma.vercel.app/)
 
-🧰 Extensions Manager
-A sleek UI to manage or showcase browser extensions in a grid-style layout.
-🔗 Live Demo
-
-🧰 Todo-list
-A sleek UI to manage and organize your tasks in a minimal, grid-style layout.
-Perfect for personal task tracking or showcasing task-related features.
-🔗 Live Demo
+### ✅ Todo-list  
+A sleek UI to manage and organize your tasks in a minimal, grid-style layout.  
+Perfect for personal task tracking or showcasing task-related features.  
+🔗 [Live Demo](https://zend-todo-list.vercel.app/)
 
 ---
 
@@ -65,7 +64,7 @@ Perfect for personal task tracking or showcasing task-related features.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### 🧱 UI Libraries  
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)![ShadCN](https://img.shields.io/badge/ShadCN-222222.svg?style=for-the-badge&logo=shadcn&logoColor=white)    
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![ShadCN](https://img.shields.io/badge/ShadCN-222222.svg?style=for-the-badge&logo=shadcn&logoColor=white)    
 
 ### 🧪 Testing  
 ![Cypress](https://img.shields.io/badge/Cypress-%2331C8FF.svg?style=for-the-badge&logo=cypress&logoColor=white)  
