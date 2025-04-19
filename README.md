@@ -20,38 +20,42 @@ kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)
 
 ## 🚀 Projects
 
-### 📊 Research Repository (Faculty of Engineering, NU)  
-A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.  
+📊 Research Repository (Faculty of Engineering, NU)
+A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.
+Role: Front-End Development & UX/UI Design
+🔗 Live Site
 
-**Role:** Front-End Development & UX/UI Design  
-🔗 [Live Site](https://research-nu-nine.vercel.app/)
+🚌 NU Bus Tracking System
+A live tracking system for public buses around Naresuan University, designed to improve real-time vehicle tracking and user accessibility.
+Role: Full-stack Developer (Front + API + DB)
+🔗 Live Site
 
-### 🎯 ZEnd SaaS Landing Page  
-A responsive and modern landing page for a fictional productivity SaaS product, featuring polished UI animations and showcasing product features, pricing, and testimonials.  
-**Role:** Front-End Development & UI Design  
-🔗 [Live Demo](https://zend-saas-landing-page.vercel.app/)
+🎯 ZEnd SaaS Landing Page
+A responsive and modern landing page for a fictional productivity SaaS product, featuring polished UI animations and showcasing product features, pricing, and testimonials.
+Role: Front-End Development & UI Design
+🔗 Live Demo
 
-### 🛒 E-commerce Product Page  
-A fully responsive e-commerce product page inspired by product-focused landing pages.  
-**Role:** Front-End Development  
-🔗 [Live Demo](https://ecommerce-product-zeta.vercel.app/)
+🛒 E-commerce Product Page
+A fully responsive e-commerce product page inspired by product-focused landing pages.
+Role: Front-End Development
+🔗 Live Demo
 
-### 🧮 Age Calculator  
-A simple web app that calculates the user’s age based on input using date logic.  
-🔗 [Live Demo](https://age-calculator-kappa-opal.vercel.app/)
+🧮 Age Calculator
+A simple web app that calculates the user’s age based on input using date logic.
+🔗 Live Demo
 
-### 🧩 Bento Grid Layout  
-An interactive grid layout inspired by the bento design style, ideal for portfolios or dashboards.  
-🔗 [Live Demo](https://bento-grid-kappa-seven.vercel.app/)
+🧩 Bento Grid Layout
+An interactive grid layout inspired by the bento design style, ideal for portfolios or dashboards.
+🔗 Live Demo
 
-### 🧰 Extensions Manager  
-A sleek UI to manage or showcase browser extensions in a grid-style layout.  
-🔗 [Live Demo](https://extensions-manager-sigma.vercel.app/)
+🧰 Extensions Manager
+A sleek UI to manage or showcase browser extensions in a grid-style layout.
+🔗 Live Demo
 
-### 🧰 Todo-list  
-A sleek UI to manage and organize your tasks in a minimal, grid-style layout.  
-Perfect for personal task tracking or showcasing task-related features.  
-🔗 [Live Demo](https://zend-todo-list.vercel.app/)
+🧰 Todo-list
+A sleek UI to manage and organize your tasks in a minimal, grid-style layout.
+Perfect for personal task tracking or showcasing task-related features.
+🔗 Live Demo
 
 ---
 
