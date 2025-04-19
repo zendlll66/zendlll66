@@ -17,12 +17,12 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 
 ---
 
+## 🚀 Projects
+
 ### 📊 Research Repository (Faculty of Engineering, NU)  
 A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.  
 **Role:** Front-End Development & UX/UI Design  
 🔗 [Live Site](https://research-nu-nine.vercel.app/)
-
-## 🚀 Projects
 
 ### 🚌 NU Bus Tracking System  
 A live tracking system for public buses around Naresuan University, designed to improve real-time vehicle tracking and user accessibility.  
