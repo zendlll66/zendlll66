@@ -19,11 +19,15 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 
 ## 🚀 Projects
 
-
 ### 📊 Research Repository (Faculty of Engineering, NU)  
 A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.  
 **Role:** Front-End Development & UX/UI Design  
 🔗 [Live Site](https://research-nu-nine.vercel.app/)
+
+### 🍔 ZEnd Food Slider  
+A sleek, interactive food slider that showcases various food items in a stylish layout, perfect for restaurant menus or food-related projects.  
+**Role:** Front-End Development  
+🔗 [Live Demo](https://zend-food-slider.vercel.app/)
 
 ### 🚌 NU Bus Tracking System  
 A live tracking system for public buses around Naresuan University, designed to improve real-time vehicle tracking and user accessibility.  
@@ -45,21 +49,14 @@ A fully responsive e-commerce product page inspired by product-focused landing p
 **Role:** Front-End Development  
 🔗 [Live Demo](https://ecommerce-product-zeta.vercel.app/)
 
+
 ### 🧮 Age Calculator  
-A simple web app that calculates the user’s age based on input using date logic.  
 🔗 [Live Demo](https://age-calculator-kappa-opal.vercel.app/)
-
-### 🧩 Bento Grid Layout  
-An interactive grid layout inspired by the bento design style, ideal for portfolios or dashboards.  
+### 🧩 Bento Grid Layout   
 🔗 [Live Demo](https://bento-grid-kappa-seven.vercel.app/)
-
-### 🧰 Extensions Manager  
-A sleek UI to manage or showcase browser extensions in a grid-style layout.  
+### 🧰 Extensions Manager   
 🔗 [Live Demo](https://extensions-manager-sigma.vercel.app/)
-
-### ✅ Todo-list  
-A sleek UI to manage and organize your tasks in a minimal, grid-style layout.  
-Perfect for personal task tracking or showcasing task-related features.  
+### ✅ Todo-list   
 🔗 [Live Demo](https://zend-todo-list.vercel.app/)
 
 
