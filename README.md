@@ -3,7 +3,7 @@
 
 ### 👋 My name is Kittithat Chankhom  
 
-💻 **Front-End Developer** | 🚀 **UX/UI Designer**  
+💻 **Front-End ,Back-end,Full-stack Developer** | 🚀 **UX/UI Designer**  (basic)
 
 ---
 
@@ -27,6 +27,7 @@ A web application that collects and displays research papers, eBooks, and resear
 ### 🍔 ZEnd Food Slider  
 A sleek, interactive food slider that showcases various food items in a stylish layout, perfect for restaurant menus or food-related projects.  
 **Role:** Front-End Development  
+
 🔗 [Live Demo](https://zend-food-slider.vercel.app/
 )
 
