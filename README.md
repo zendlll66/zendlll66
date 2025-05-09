@@ -13,6 +13,7 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 
 🌍 **I'm based in:** Thailand  
 🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)  
+🖥️ **Web blog:** [ZEnd](https://zend-dev-tricks.vercel.app/)  
 ✉️ **Contact me:** [kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
 
 ---
@@ -23,6 +24,11 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 A web application that collects and displays research papers, eBooks, and researcher profiles for the Faculty of Engineering at Naresuan University.  
 **Role:** Front-End Development & UX/UI Design  
 🔗 [Live Site](https://research-nu-nine.vercel.app/)
+
+### 🧠 ZEnd Dev Tricks  
+A collection of useful development tips, techniques, and solutions—perfect for web developers who love learning new tricks.  
+**Role:** Full-stack Development & Knowledge Sharing  
+🔗 [Live Demo](https://zend-dev-tricks.vercel.app/)
 
 ### 🍔 ZEnd Food Slider  
 A sleek, interactive food slider that showcases various food items in a stylish layout, perfect for restaurant menus or food-related projects.  
