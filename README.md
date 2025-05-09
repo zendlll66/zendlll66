@@ -25,7 +25,7 @@ A web application that collects and displays research papers, eBooks, and resear
 **Role:** Front-End Development & UX/UI Design  
 🔗 [Live Site](https://research-nu-nine.vercel.app/)
 
-### 🧠 ZEnd Dev Tricks  
+### 🧠.DEV_ 
 A collection of useful development tips, techniques, and solutions—perfect for web developers who love learning new tricks.  
 **Role:** Full-stack Development & Knowledge Sharing  
 🔗 [Live Demo](https://zend-dev-tricks.vercel.app/)
