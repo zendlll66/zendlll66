@@ -12,8 +12,8 @@ I am a website developer with hands-on experience in frontend design and UX/UI d
 ---
 
 🌍 **I'm based in:** Thailand  
-🖥️ **Portfolio:** [ZEnd](https://zend-portfolio.vercel.app/)  
-🖥️ **Web blog:** [.DEV_](https://zend-dev-tricks.vercel.app/)  
+🖥️ **Web Portfolio v.1:** [ZEnd](https://zend-portfolio.vercel.app/)  
+🖥️ **Web Portfolio v.2:** [.DEV_](https://zend-dev-tricks.vercel.app/)  
 ✉️ **Contact me:** [kittithat.dev@gmail.com](mailto:kittithat.dev@gmail.com)  
 
 ---
